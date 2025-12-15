@@ -13,3 +13,4 @@
 sbsar工具箱:
 加入了sbsar文件,包含上一个脚本功能
 但是依赖substance for blender addon
+v2加入了旋转特定集合或选择中物体UV的功能
